@@ -1,8 +1,8 @@
 ### Profile details card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-10bei&theme=nord_bright))
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-10bei&theme=nord_bright)
 
 ### Skill
-[![My Skills](https://skillicons.dev/icons?i=azure,ubuntu,mysql,fastapi,python,pytorch,r,vscode,md&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,ubuntu,bash,vscode,python,pytorch,mysql,sqlite,fastapi,r,md&perline=4)](https://skillicons.dev)
 
 ### Top languages used in repository card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-10bei&theme=nord_bright)
